@@ -1,1 +1,1 @@
-# matlab_basics
+# matlab/gnu octave basics
